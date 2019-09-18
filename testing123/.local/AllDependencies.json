@@ -1038,9 +1038,9 @@
     "restore": {
       "projectUniqueName": "testing123",
       "projectName": "testing123",
-      "projectPath": "C:\\Users\\nikhi\\OneDrive\\Documents\\UiPath\\testing123\\.local",
+      "projectPath": "C:\\Nikhil\\UiPath\\GitRepo_UiPath\\UiPath\\testing123\\.local",
       "packagesPath": "C:\\Users\\nikhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikhi\\OneDrive\\Documents\\UiPath\\testing123\\.local"
+      "outputPath": "C:\\Nikhil\\UiPath\\GitRepo_UiPath\\UiPath\\testing123\\.local"
     },
     "frameworks": {
       "net461": {
